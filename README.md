@@ -5,14 +5,7 @@ Proyecto de análisis de datos desarrollado como parte de la Certificación Prof
 
 Un proyecto completo de análisis de datos desarrollado en **Jupyter Notebook**, enfocado en la manipulación, limpieza, análisis exploratorio de datos (EDA) y extracción de hallazgos clave a partir de conjuntos de datos alojados en Kaggle.
 
----
 
-## 📸 Vista Previa del Proyecto
-
-![Estructura del Proyecto](https://raw.githubusercontent.com/abrahamgarcia10/assets/main/dashboard_preview.png)
-*(Nota: Sustituye este enlace cuando subas tus capturas de pantalla o imágenes a GitHub)*
-
----
 
 ## 📋 Tabla de Contenidos
 - [Descripción del Proyecto](#-descripción-del-proyecto)
